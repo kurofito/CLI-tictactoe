@@ -12,7 +12,7 @@ If you want to play against an easy computer that is O and you are X: start user
 
 If you want to play against a hard computer with X: start hard user
 
-If you want to exit after the game just type exit.
+You can even watch computers play against each other!
 
 Coordinates for the tic tac toe are below:
 
@@ -26,6 +26,10 @@ Example of the game:
 
 
 ![example2](https://user-images.githubusercontent.com/61360055/114810678-8cca3380-9de7-11eb-8e60-304e1566d9d7.png)
+
+
+![eg2](https://user-images.githubusercontent.com/61360055/114811472-21816100-9de9-11eb-926d-5ed3d864318b.png)
+
 
 
 Enjoy!
