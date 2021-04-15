@@ -1,5 +1,5 @@
 # Tic tac toe in python
-Tic tac toe that one can play against a person or easy, medium or hard computer.
+Tic tac toe that one can play against three levels of computers or a person
 
 The commands are as follows:
 
