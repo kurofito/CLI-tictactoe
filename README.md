@@ -1,4 +1,4 @@
-# CLI-tictactoe
+# Tic tac toe in python
 Tic tac toe that one can play against a person or easy, medium or hard computer.
 
 The commands are as follows:
