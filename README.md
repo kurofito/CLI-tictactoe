@@ -3,12 +3,8 @@ Tic tac toe that one can play against a person or easy, medium or hard computer.
 
 The commands are as follows:
 
-start
-user
-easy
-medium 
-hard
-exit 
+![cm](https://user-images.githubusercontent.com/61360055/114810888-f77b6f00-9de7-11eb-92de-6dd4335d0f98.png)
+
 
 If you want to play against your friend the command woud be: start user user
 
@@ -18,23 +14,10 @@ If you want to play against a hard computer with X: start hard user
 
 If you want to exit after the game just type exit.
 
-You can even watch computers play against each other! 
-
-Example commands are below:
-
-start hard easy
-
-start medium easy
-
-start hard medium
-
-start hard hard
-
 Coordinates for the tic tac toe are below:
 
-(1, 3) (2, 3) (3, 3)
-(1, 2) (2, 2) (3, 2)
-(1, 1) (2, 1) (3, 1)
+![cd](https://user-images.githubusercontent.com/61360055/114810819-d61a8300-9de7-11eb-8613-a17fb0610441.png)
+
 
 Example of the game:
 
