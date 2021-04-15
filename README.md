@@ -12,7 +12,7 @@ If you want to play against an easy computer that is O and you are X: start user
 
 If you want to play against a hard computer with X: start hard user
 
-For you information, depending on a state of the game medium computer will make either random move or strategic move. 
+For your information, depending on a state of the game medium computer will make either random move or strategic move. 
 
 Warning: You will not be able to beat hard computer!
 
