@@ -1,4 +1,4 @@
-# Tic tac toe in python
+# Tic tac toe in python (3.9)
 Tic tac toe that one can play against three levels of computers or a person
 
 The commands are as follows:
